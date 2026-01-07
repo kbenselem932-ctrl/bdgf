@@ -1,0 +1,26 @@
+body{
+  background: linear-gradient(135deg, #f70707, #fad0c4);
+  height: 100vh;
+   text-align: center;
+}
+img{
+  width: 45%;
+  float: left;
+}
+button {
+  padding: 40px 30px;
+  font-size: 16px;
+  border: none;
+  border-radius: 25px;
+  background: #e90a0a;
+  color: white;
+  cursor: pointer;
+  float: left;
+  clear: both;
+  
+  
+  
+}
+
+button:hover {
+  background: #090506;

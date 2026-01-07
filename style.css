@@ -1,0 +1,73 @@
+
+
+body {
+  margin: 0;
+  height: 100vh;
+  background-image: url(HD-wallpaper-products-pusheen-cat.jpg);
+  background-size:cover;
+  backdrop-filter: blur(10px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+button {
+  padding: 12px 25px;
+  font-size: 16px;
+  border: none;
+  border-radius: 25px;
+  background: #ff5e7e;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #ff3e66;
+}
+fieldset{
+    border-radius:20px;
+    background: linear-gradient(135deg, #60087d, #fad0c4);
+  display: flex;
+  
+  border:chartreuse ;
+
+
+}
+label{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+legend{
+    font-family:fantasy;
+    font-size: larger;
+    text-align: center;
+    animation-name: def;
+    animation-duration: 1s;
+    color: #40076b;
+}
+input{
+    border-radius: 5px;
+    border-color: #c67989;
+    background-color: #e8bbe8;
+    padding-right: 10px;
+    
+}
+td{
+    padding-left: 10px;
+    float: left;
+
+}
+textarea{background-color: #e8bbe8;}
+@keyframes def{
+  0%{font-size:larger;}
+  50%{font-size:x-large;}
+  100%{font-size:medium;}
+}
+.c2{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
