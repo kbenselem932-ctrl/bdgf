@@ -29,12 +29,11 @@ button:hover {
 }
 fieldset{
     border-radius:20px;
-    background: linear-gradient(135deg, #60087d, #fad0c4);
+    background:linear-gradient(135deg, #60087d, #c4d3fa);
   display: flex;
   
   border:chartreuse ;
-
-
+  =
 }
 label{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -67,6 +66,9 @@ textarea{background-color: #e8bbe8;}
 }
 .c2{
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+:placeholder {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 
 
