@@ -1,11 +1,12 @@
 body{
   background: linear-gradient(135deg, #4d0f1c, #fad0c4);
-  height: 100vh;
+  height: 100svh;
    text-align: center;
 }
 img{
   width: 50%;
 }
+
 
 
 
