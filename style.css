@@ -30,10 +30,12 @@ button:hover {
 fieldset{
     border-radius:20px;
     background:linear-gradient(135deg, #60087d, #c4d3fa);
-  display: flex;
+    height: 100vvh;
   
-  border:chartreuse ;
-  =
+    display: flex;
+  
+    border:chartreuse ;
+  
 }
 label{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -70,6 +72,7 @@ textarea{background-color: #e8bbe8;}
 :placeholder {
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
+
 
 
 
